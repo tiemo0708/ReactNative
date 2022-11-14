@@ -1,0 +1,4 @@
+expo install react-native-webview
+https://docs.expo.dev/get-started/create-a-new-app/
+https://stackoverflow.com/questions/72921215/getting-glibc-2-28-not-found
+https://tyrannocoding.tistory.com/58
